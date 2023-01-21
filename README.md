@@ -1,2 +1,1 @@
-# Repositorio-de-prueba-3-
-nuevo repositorio de prueba numero 3, del curso full stack modulo 2 del prerp course de Henry
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a un repositorio local
